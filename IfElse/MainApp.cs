@@ -22,6 +22,8 @@ namespace IfElse
                 Console.WriteLine("짝수");
             else
                 Console.WriteLine("홀수");
+
+            Console.WriteLine("프로그램을 종료합니다.");
         }
     }
 }

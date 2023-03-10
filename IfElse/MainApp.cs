@@ -8,10 +8,10 @@ namespace IfElse
         {
             Console.WriteLine("숫자를 입력하세요. : ");
 
-            string input = Console.ReadLine();
-            int number = Int32.Parse(input);
+            string input = Console.ReadLine(); // 문자를 넣는다, 사용자가 적는것을
+            int number = Int32.Parse(input); // int의 수는 정수(사용자가 적은 문자를 수로 변환 후)로 함
 
-            if (number > 0)
+            if (number < 0)
             {
                 Console.WriteLine("음수");
             }
@@ -32,6 +32,11 @@ namespace IfElse
             {
                 Console.WriteLine("홀수");
             }
+
+            string result = (number % 2) == 0 ? "짝수" : "홀수";
+
+            Console.WriteLine(result);
+            //Console.WriteLine(number % 2 == 0 ? "짝수 : "홀수");
         }
     }
 }

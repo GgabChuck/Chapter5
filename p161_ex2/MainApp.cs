@@ -2,7 +2,7 @@
 
 namespace p161_ex2
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {

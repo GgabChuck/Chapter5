@@ -38,7 +38,9 @@ namespace p151_ex6
                     Console.WriteLine($"입력하신 점수 {b}는(은) 불합격입니다.");
                 }
                 else
+                {
                     Console.WriteLine("점수를 잘못입력하셨습니다. 확인 후 다시 입력해주세요.");
+                }
             }
             else
             {

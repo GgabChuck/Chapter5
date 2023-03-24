@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "namespace Continue", "names
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goto", "Goto\Goto.csproj", "{B9FE7A2D-1B85-465C-897D-36AE03D00163}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimGiBoem_ex1", "KimGiBoem_ex1\KimGiBoem_ex1.csproj", "{ADF7CA9C-F4E9-4A6D-A50E-ED3A4D80022D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimGiBoem_ex2", "KimGiBoem_ex2\KimGiBoem_ex2.csproj", "{D6C62E76-3EC3-471A-B8C1-AF0402C8C87D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{B9FE7A2D-1B85-465C-897D-36AE03D00163}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9FE7A2D-1B85-465C-897D-36AE03D00163}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9FE7A2D-1B85-465C-897D-36AE03D00163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF7CA9C-F4E9-4A6D-A50E-ED3A4D80022D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF7CA9C-F4E9-4A6D-A50E-ED3A4D80022D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF7CA9C-F4E9-4A6D-A50E-ED3A4D80022D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF7CA9C-F4E9-4A6D-A50E-ED3A4D80022D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C62E76-3EC3-471A-B8C1-AF0402C8C87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C62E76-3EC3-471A-B8C1-AF0402C8C87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C62E76-3EC3-471A-B8C1-AF0402C8C87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C62E76-3EC3-471A-B8C1-AF0402C8C87D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

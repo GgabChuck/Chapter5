@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimGiBoem_ex2", "KimGiBoem_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimGiBoem_ex3", "KimGiBoem_ex3\KimGiBoem_ex3.csproj", "{036D3A1A-1166-4287-B232-9B0D2DEA73E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimGiBoem_ex3-2", "KimGiBoem_ex3-2\KimGiBoem_ex3-2.csproj", "{1352F12A-F810-4256-92C1-FE9BDCCE0684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimGiBoem_ex4", "KimGiBoem_ex4\KimGiBoem_ex4.csproj", "{A13A91AB-FA3D-4278-AB67-6DFDEB9D7832}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{036D3A1A-1166-4287-B232-9B0D2DEA73E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{036D3A1A-1166-4287-B232-9B0D2DEA73E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{036D3A1A-1166-4287-B232-9B0D2DEA73E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1352F12A-F810-4256-92C1-FE9BDCCE0684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1352F12A-F810-4256-92C1-FE9BDCCE0684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1352F12A-F810-4256-92C1-FE9BDCCE0684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1352F12A-F810-4256-92C1-FE9BDCCE0684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A13A91AB-FA3D-4278-AB67-6DFDEB9D7832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13A91AB-FA3D-4278-AB67-6DFDEB9D7832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13A91AB-FA3D-4278-AB67-6DFDEB9D7832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13A91AB-FA3D-4278-AB67-6DFDEB9D7832}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
